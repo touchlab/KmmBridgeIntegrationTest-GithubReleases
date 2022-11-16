@@ -1,8 +1,8 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let remoteKotlinUrl = "https://api.github.com/repos/touchlab/KmmBridgeIntegrationTest-GithubReleases/releases/assets/84816603.zip"
-let remoteKotlinChecksum = "e798fa58bcffc9ee61a514370f50bd450ab1b684e869b1fb2f6b12334d97582e"
+let remoteKotlinUrl = "https://api.github.com/repos/touchlab/KmmBridgeIntegrationTest-GithubReleases/releases/assets/84817712.zip"
+let remoteKotlinChecksum = "2b1a057ae0ad54e63cdd6f23a41f967dbc689882d323b0e2173b36db66a161ee"
 let packageName = "shared"
 
 let package = Package(
